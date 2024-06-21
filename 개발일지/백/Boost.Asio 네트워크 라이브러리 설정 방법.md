@@ -108,3 +108,5 @@ int main() {
     return 0;
 }
 ```
+
+![요청 결과 이미지](https://github.com/louis-cho/Collabo/assets/38391852/3f3f5316-bae7-400d-beb3-003d4c68cb91)
